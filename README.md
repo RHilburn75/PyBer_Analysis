@@ -24,5 +24,10 @@ Avg Fare per Driver - $37.2
 - Total Rides - 68.4% of total / 80.8% of total drivers / 62.7% of total fares
  - Avg fare per ride were the lowes
  - Avg Fare per driver were the lowest
+
+The data was scrubbed even further, removing al NaN data, and focusing on a specific timeframe - 01/01/19 to 04/28/19.  Here's the results:
+
+
+
 ## Summary
 ### Based on the results, provide 3 business recommnedations to the CEO for addressing any disparities among the city types

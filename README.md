@@ -53,8 +53,8 @@ To visualize the data, We created a line chart to reflect the above data:
    Finally, the rural areas tend to have less rides, less drivers but higher fee.  More rural areas could be seperated by larger distances which will drive up the overall cost.  More people may als be more dependant on their own form of tranportation
 ### Business Recommendations
 1. utilize more drivers in each area.
- - More urban drivers working in the suburban areas
- - More suburban drivers working in the rural areas
+   - More urban drivers working in the suburban areas
+   - More suburban drivers working in the rural areas
 2. Increase the wage in the suburban and rural areas 
 3. Develop areas where drivers work.  Map out certain areas and have drivers assigned to those areas
 

@@ -1,6 +1,17 @@
 # PyBer_Analysis
 ## Overview of the Analysis
-### Explain the purpose of the new analysis
+
+## Development Platforms
+
+ - Jupyter Notebook
+ - Python v 3.7.6
+ - Pandas library
+ - Matplotlib Library
+
+## Resources
+ - ride_data.csv
+ - city_data.csv
+
 ## Summary
 We'll 1st look at the summary Dataframe from our threes types:
 
@@ -34,6 +45,9 @@ To visualize the data, We created a line chart to reflect the above data:
 
 ![image](https://user-images.githubusercontent.com/94253815/147364919-2e7b43aa-a8e4-40d1-bac9-90c6862a413f.png)
 
-
 ## Summary
+
+ Population in these three area directly impact the data found. With a denser population in the urban areas, people tend to use rideshares more often due to congestion in the cities.  Witht he amount drivers and volume of rides, it helps keep cost low.  Shorter drives and more riders sharing rides impact the cost as well.
+  Lookig at the surburban data, ride es are in the middle of the road.  This could be due to people moving to the suburbs to raise families.  More people have their own vehicle.  There are more ride shares as people may use this mode of transit to go to work, avoid using their cars.
+   Finally, the rural areas tend to have less rides, less drivers but higher fee.  More rural areas could be seperated by larger distances which will drive up the overall cost.  More people may als be more dependant on their own form of tranportation
 ### Based on the results, provide 3 business recommnedations to the CEO for addressing any disparities among the city types

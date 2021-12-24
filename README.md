@@ -1,6 +1,7 @@
 # PyBer_Analysis
 ## Overview of the Analysis
-
+ With our enhanced skills, in Python and Pandas, Omar and I were given a brand new assignment.  V. Isualize wants a summary of our analysis.
+Using our resources we'll create a summary of ride sharing data by city type, using data frames. Then, using Matpltlib, we'll create a multiple line chart that will show the total weeklyfares for each city type.
 ## Development Platforms
 
  - Jupyter Notebook

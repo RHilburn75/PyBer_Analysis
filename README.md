@@ -25,10 +25,12 @@ Avg Fare per Driver - $37.2
  - Avg fare per ride were the lowes
  - Avg Fare per driver were the lowest
 
-The data was scrubbed even further, removing al NaN data, and focusing on a specific timeframe - 01/01/19 to 04/28/19.  Here's the results:
+The data was scrubbed even further, removing al NaN data, and focusing on a specific timeframe - 01/01/19 to 04/28/19.  Here's the results of sum of fares per week:
 
 
 ![image](https://user-images.githubusercontent.com/94253815/147364743-cc8e3152-127e-4894-96fd-c2535c3ce429.png)
+
+To visulize the data, We created a line chart to reflect the above data:
 
 
 

@@ -28,6 +28,9 @@ Avg Fare per Driver - $37.2
 The data was scrubbed even further, removing al NaN data, and focusing on a specific timeframe - 01/01/19 to 04/28/19.  Here's the results:
 
 
+![image](https://user-images.githubusercontent.com/94253815/147364743-cc8e3152-127e-4894-96fd-c2535c3ce429.png)
+
+
 
 ## Summary
 ### Based on the results, provide 3 business recommnedations to the CEO for addressing any disparities among the city types

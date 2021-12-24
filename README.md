@@ -30,8 +30,9 @@ The data was scrubbed even further, removing al NaN data, and focusing on a spec
 
 ![image](https://user-images.githubusercontent.com/94253815/147364743-cc8e3152-127e-4894-96fd-c2535c3ce429.png)
 
-To visulize the data, We created a line chart to reflect the above data:
+To visualize the data, We created a line chart to reflect the above data:
 
+![image](https://user-images.githubusercontent.com/94253815/147364919-2e7b43aa-a8e4-40d1-bac9-90c6862a413f.png)
 
 
 ## Summary

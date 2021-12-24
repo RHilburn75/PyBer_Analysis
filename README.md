@@ -8,7 +8,7 @@ We'll 1st look at the summary Dataframe from our threes types:
 
 Total Rides - 2375
 Total Drivers - 2973
-Total Fares - 237,538
+Total Fares - 63,538.64
 Avg Fare - $30
 Avg Fare per Driver - $37.2
 
